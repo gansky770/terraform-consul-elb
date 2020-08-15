@@ -1,0 +1,1 @@
+copy consul files to real consul derectory && add mykey ,mykey.pub to root  derectory
