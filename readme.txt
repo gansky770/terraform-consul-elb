@@ -1,1 +1,1 @@
-replace consul.tf ,outputs.tf,variables.tf files to real consul derectory && add mykey ,mykey.pub to root  derectory
+replace from tempconsul consul.tf ,outputs.tf,variables.tf files to real consul derectory && add mykey ,mykey.pub to root  derectory
