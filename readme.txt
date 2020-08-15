@@ -1,1 +1,1 @@
-copy consul files to real consul derectory && add mykey ,mykey.pub to root  derectory
+replace consul.tf ,outputs.tf,variables.tf files to real consul derectory && add mykey ,mykey.pub to root  derectory
